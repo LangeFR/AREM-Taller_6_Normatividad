@@ -38,12 +38,14 @@ Como supuesto general, se consideró que la empresa **utiliza plataformas SaaS**
 
 
 ## 📈 Diagrama final entregado
+
 A continuación se presentan las representaciones gráficas del trabajo desarrollado en el taller.  
 La primera imagen muestra el **Checklist General de Cumplimiento Normativo**, y la segunda ilustra la **Matriz de Brechas y Riesgos Prioritarios** correspondientes al cliente Tekton Tech.
 
-![Checklist General Tekton](../Checklist-General-Tekton.png)
+![Checklist General Tekton](Checklist-General-Tekton.png)
 
-![Brechas Tekton](../Brechas-Tekton.png)
+![Brechas Tekton](Brechas-Tekton.png)
+
 
 
 ## 🔍 Investigación complementaria
